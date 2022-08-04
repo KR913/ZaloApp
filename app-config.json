@@ -1,0 +1,23 @@
+{
+  "app": {
+    "title": "NFT Verifier",
+    "headerColor": "#1843EF",
+    "textColor": "white",
+    "statusBarColor": "#1843EF",
+    "leftButton": "both"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [
+    "/index",
+    "/camera",
+    "/preview",
+    "/result",
+    "/detail",
+    "/crop",
+    "/history-detail",
+    "/member-detail"
+  ]
+}
